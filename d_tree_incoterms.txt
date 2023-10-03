@@ -1,0 +1,54 @@
+Decision Tree for Choosing Incoterms
+
+    Start
+
+    Are you the Seller or the Buyer?
+        If you are the Seller, go to step 3.
+        If you are the Buyer, go to step 4.
+
+    As the Seller, consider:
+        Is the Buyer located in a different country?
+            Yes: Consider using an Incoterm that places more responsibility on the Buyer.
+            No: Continue to step 5.
+
+    As the Buyer, consider:
+        Is the Seller located in a different country?
+            Yes: Consider using an Incoterm that places more responsibility on the Seller.
+            No: Continue to step 5.
+
+    What is the Nature of the Goods?
+        Are the goods fragile, perishable, or hazardous?
+            Yes: Consider using an Incoterm that ensures greater care and control during transport (e.g., CFR or CIF for ocean freight).
+            No: Continue to step 6.
+
+    Determine the Mode of Transportation:
+        Is the goods' transportation primarily by sea, air, road, or a combination?
+            Sea: Consider Incoterms suitable for ocean freight (e.g., FOB, CFR, CIF).
+            Air: Consider Incoterms suitable for airfreight (e.g., CPT, CIP).
+            Road/Combined: Consider Incoterms applicable to these modes (e.g., EXW, DAP, DDP).
+
+    Assess Risk Tolerance:
+        Does one party have a lower risk tolerance than the other?
+            Yes: Choose an Incoterm that aligns with the party's risk tolerance (e.g., EXW for low risk to the Seller, DDP for low risk to the Buyer).
+            No: Continue to step 8.
+
+    Evaluate Cost Distribution:
+        Do you want to distribute costs evenly or allocate specific costs to one party?
+            Evenly: Choose Incoterms that evenly distribute costs (e.g., CIP, CPT).
+            Allocate Costs: Choose Incoterms that allocate costs as desired (e.g., FOB for Seller pays local charges, DDP for Buyer covers all expenses).
+
+    Negotiate Terms:
+        Collaborate with the other party to agree on the specific terms of the sale, considering price, point of delivery, and responsibilities.
+
+    Document the Agreement:
+        Ensure that the chosen Incoterms and any negotiated conditions are clearly documented in the contract or sales agreement.
+
+    Consider Local Laws and Regulations:
+        Be aware of and comply with any local laws, regulations, or customs requirements that may impact your transaction.
+
+    Seek Legal and Professional Advice (if needed):
+        Depending on the complexity of your transaction, consider consulting legal and trade experts to ensure compliance and mitigate risks.
+
+    End
+
+This decision tree should help you systematically consider various factors and make an informed decision when choosing the most suitable Incoterms for your specific international trade transaction. Keep in mind that the choice of Incoterms may also depend on your negotiation leverage and the preferences of both parties involved.
